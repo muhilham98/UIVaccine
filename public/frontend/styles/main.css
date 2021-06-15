@@ -1,0 +1,260 @@
+body {
+  background-color: #FFFFFF;
+  font-family: 'Poppins', sans-serif;
+  color: #152C5B;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #152C5B;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #152C5B !important;
+}
+
+.box {
+  margin-top: 80px !important;
+}
+
+header {
+  margin-top: 80px;
+}
+
+header .tag-1 {
+  font-size: 16px;
+  color: #3252DF;
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+header .tag-2 {
+  font-size: 55px;
+  color: #152C5B;
+  font-weight: bold;
+}
+
+header .tag-4 {
+  font-size: 48px;
+  color: #177ccf;
+}
+
+header .banner {
+  max-width: 100%;
+}
+
+header .btn-get-started {
+  background-color: #3252DF;
+  color: #fff;
+}
+
+header .btn-get-started:hover {
+  background-color: #8499F8;
+  color: #fff;
+}
+
+.information {
+  margin-top: 80px;
+}
+
+.information .section-1 {
+  color: #3252DF;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.information .section-2 {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.information .section-jumlah .card-positif {
+  background-color: #fb3640;
+  border-radius: 15px;
+}
+
+.information .section-jumlah .card-sembuh {
+  background-color: #29bb89;
+  border-radius: 15px;
+}
+
+.information .section-jumlah .card-meninggal {
+  background-color: #194350;
+  border-radius: 15px;
+}
+
+.about {
+  margin-top: 80px;
+}
+
+.about img {
+  margin-top: 35px !important;
+  max-width: 100%;
+}
+
+.about .btn {
+  background-color: #3252DF;
+  color: #fff;
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.about .btn c {
+  color: #F7EA00;
+}
+
+.about .title {
+  margin-top: 15px;
+  font-size: 30px;
+  font-weight: 600;
+  color: #3252DF;
+}
+
+.about .title c {
+  color: #F7EA00;
+}
+
+.about hr {
+  margin-top: 80px !important;
+}
+
+.section-title {
+  margin-top: 50px;
+  font-size: 50px;
+  font-weight: 600;
+  color: #3252DF;
+}
+
+.section-sub-totle-1 {
+  margin-top: -5px;
+  font-size: 22px;
+  font-weight: 300;
+}
+
+.section-sub-totle-2 {
+  margin-top: -20px;
+  font-size: 22px;
+  font-weight: 300;
+}
+
+.content {
+  margin-top: 60px;
+}
+
+.content .kebijakan-privasi-1 .title-kp-1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+}
+
+.content .kebijakan-privasi-1 .content-1 {
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: -15px;
+}
+
+.content .kebijakan-privasi-1 img {
+  margin-top: 0px;
+}
+
+.content .kebijakan-privasi-2 {
+  margin-top: 65px;
+}
+
+.content .kebijakan-privasi-2 .title-kp-2 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+  padding-left: 8px;
+}
+
+.content .kebijakan-privasi-2 .content-2 {
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: -15px;
+  padding-left: 8px;
+}
+
+.content .kebijakan-privasi-2 img {
+  margin-top: 0px;
+}
+
+.content .kebijakan-privasi-3 {
+  margin-top: 65px;
+}
+
+.content .kebijakan-privasi-3 .title-kp-3 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+}
+
+.content .kebijakan-privasi-3 .content-3 {
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: -15px;
+}
+
+.content .kebijakan-privasi-3 img {
+  margin-top: 0px;
+}
+
+.content .kebijakan-privasi-4 {
+  margin-top: 65px;
+}
+
+.content .kebijakan-privasi-4 .title-kp-4 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+  padding-left: 8px;
+}
+
+.content .kebijakan-privasi-4 .content-4 {
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: -15px;
+  padding-left: 8px;
+}
+
+.content .kebijakan-privasi-4 img {
+  margin-top: 0px;
+}
+
+.content .kebijakan-privasi-5 {
+  margin-top: 65px;
+}
+
+.content .kebijakan-privasi-5 .title-kp-5 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+}
+
+.content .kebijakan-privasi-5 .content-5 {
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: -15px;
+}
+
+.content .kebijakan-privasi-5 img {
+  margin-top: 0px;
+}
+
+footer {
+  color: #3252DF;
+}
+
+footer h5 {
+  color: #152C5B;
+}
+
+main .about .content {
+  margin-top: -15px;
+}
+/*# sourceMappingURL=main.css.map */
