@@ -7,7 +7,7 @@ function getData()
 
     $url = 'https://api.kawalcorona.com/indonesia/';
     try {
-        $response = Http::timeout(100)->get($url);
+        $response = Http::timeout(5000)->get($url);
         $data = $response->json();
         $data['status_code'] = $response->getStatusCode();
         return $data;
